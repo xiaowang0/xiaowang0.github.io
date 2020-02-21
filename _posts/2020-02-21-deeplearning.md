@@ -1,9 +1,9 @@
-面试题们
 ---
-layout	title	tags	author
+
 layout: post
 title: 学习笔记
 tags: 学习
 author: 小王
 ---
-1、卷积的类型
+
+1. 卷积
